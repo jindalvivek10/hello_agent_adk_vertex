@@ -40,6 +40,10 @@ jindal_vivek10@cloudshell:~/projects/hello_agent$ **uv run adk web agent.py --po
 ## TO copy your local code first time to a repo in github 
 jindal_vivek10@cloudshell:~/projects/hello_agent$ **git init**
 
+jindal_vivek10@cloudshell:~/projects/hello_agent$ **git add .**
+
+jindal_vivek10@cloudshell:~/projects/hello_agent$ **git commit -m "Initial commit of agent code"**
+
 jindal_vivek10@cloudshell:~/projects/hello_agent$ **git branch -M main**
 
 jindal_vivek10@cloudshell:~/projects/hello_agent$ **git remote add origin https://github.com/jindalvivek10/hello_agent_adk_vertex**
