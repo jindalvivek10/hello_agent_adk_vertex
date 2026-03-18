@@ -44,7 +44,8 @@ jindal_vivek10@cloudshell:~/projects/hello_agent$ **git branch -M main**
 
 jindal_vivek10@cloudshell:~/projects/hello_agent$ **git remote add origin https://github.com/jindalvivek10/hello_agent_adk_vertex**
 
-jindal_vivek10@cloudshell:~/projects/hello_agent$ git push -u origin main
+jindal_vivek10@cloudshell:~/projects/hello_agent$ **git push -u origin main**
+
 Enumerating objects: 9, done.
 Counting objects: 100% (9/9), done.
 Delta compression using up to 2 threads
