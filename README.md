@@ -35,3 +35,19 @@ jindal_vivek10@cloudshell:~/projects/hello_agent$ **uv run adk run .**
 
 
 jindal_vivek10@cloudshell:~/projects/hello_agent$ **uv run adk web agent.py --port 8080** (but this is not working so far)
+
+
+## TO copy your local code first time to a repo in github 
+jindal_vivek10@cloudshell:~/projects/hello_agent$ **git init**
+jindal_vivek10@cloudshell:~/projects/hello_agent$ **git branch -M main**
+jindal_vivek10@cloudshell:~/projects/hello_agent$ **git remote add origin https://github.com/jindalvivek10/hello_agent_adk_vertex**
+jindal_vivek10@cloudshell:~/projects/hello_agent$ git push -u origin main
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (9/9), 90.53 KiB | 5.33 MiB/s, done.
+Total 9 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/jindalvivek10/hello_agent_adk_vertex
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
