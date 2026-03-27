@@ -1,3 +1,6 @@
+### What we are doing here
+1) Create a simple agent which will connect to vertex AI and using google cloud project can be run locally.
+
 jindal_vivek10@cloudshell:~$ **mkdir -p ~/projects/hello-agent && cd ~/projects/hello-agent**
 
 jindal_vivek10@cloudshell:~/projects/hello-agent$ **pwd**
